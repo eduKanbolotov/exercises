@@ -1,0 +1,11 @@
+var a = 1
+var b = 2.2;
+var c = 5000;
+var d = 900000;
+var e = 111222333444;
+var isHavingFun = true;
+var isDifficult = false;
+var letterA = "a";
+var word = "crazy";
+var sentence1 = "I washed my face.";
+var sentence2 = "The code in a computer is so hard to understand. If I keep learning, one day I will know.";
